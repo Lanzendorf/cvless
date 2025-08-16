@@ -1,7 +1,7 @@
 title: "Lucas Lanzendorf"
-description: ""
+description: "Lucas Lanzendorf is a CT-based engineer with a degree in Mechanical Engineering from the California Institute of Technology."
 baseurl: ""
-url: ""
+url: "https://lanzendorf.github.io"
 
 exclude:
   - demo/
@@ -33,3 +33,5 @@ pagination:
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"
+
+theme: cvless
